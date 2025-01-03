@@ -7,7 +7,7 @@
 
 int main() {
 
-	sf::RenderWindow window(sf::VideoMode(800, 800), "Janela");
+	sf::RenderWindow window(sf::VideoMode(800, 800), "Bouncing Balls");
 	objectManager objManager(&window);
 	PhysicsWorld world(&objManager, &window);
 	sf::Clock clock;
