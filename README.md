@@ -22,3 +22,7 @@ You can easily run this project directly in **Visual Studio**:
 
 - **SFML**: For graphics, window management, and handling input.
 - **C++**: Object-Oriented Programming (OOP) to structure the project.
+
+## License
+
+This project is open source and can be used freely. Feel free to adapt or improve it for educational purposes.
